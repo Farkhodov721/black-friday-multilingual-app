@@ -8,5 +8,6 @@ Fully functional app with:
 - Product detail page with language switcher
 
 See `Screen Recodring` for 20-second recording showing all features.(Quality of video downgraded!)
+https://github.com/johnDoe/black-friday-multilingual-app/raw/main/ScreenRecroding.mov
 
 Note: Product images are in Assets.xcassets. If missing when running, placeholders appear — all functionality works.
