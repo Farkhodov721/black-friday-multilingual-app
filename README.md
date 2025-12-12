@@ -9,9 +9,12 @@ Fully functional app with:
 
 See `Screen Recodring` for 20-second recording showing all features.(Quality of video downgraded!)
 ### Demo Video (20 seconds)
-
-[Watch the demo video](ScreenRecording_12-12-2025 14-52-26_1.mov)
+https://github.com/user-attachments/assets/c5da9113-819e-48d9-b591-27b23afc8368
 
 This shows language switching, RTL layout, currency updates
 
 Note: Product images are in Assets.xcassets. If missing when running, placeholders appear — all functionality works.
+
+
+
+
